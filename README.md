@@ -1,4 +1,4 @@
-# Hi there, I'm DanBuiLam 😻
+# Hi there, I'm Dan Bui Lam
 - 🌱 I’m currently learning: Git and GitHub, C/C++, Electronics.
 - 📫 How to reach me: builamdan17@gmail.com
 
