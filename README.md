@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there, I'm DanBuiLam 😻
+- 🌱 I’m currently learning: Git and GitHub, C/C++, Electronics.
+- 📫 How to reach me: builamdan17@gmail.com
 
+## Tech Stack
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 <!--
 **danbuilam/danbuilam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
