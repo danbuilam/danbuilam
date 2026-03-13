@@ -1,5 +1,5 @@
 # Hi there, I'm Dan Bui Lam
-- 🌱 I’m currently learning: Git and GitHub, C/C++, Electronics.
+- 🌱 I’m currently learning: Git and GitHub, C/C++, C#, Electronics.
 - 📫 How to reach me: builamdan17@gmail.com
 
 ## Tech Stack
